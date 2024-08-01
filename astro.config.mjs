@@ -8,6 +8,8 @@ export default defineConfig({
 			title: 'Akram Faisal',
 			social: {
 				github: 'https://github.com/kreee00/',
+				linkedin: 'https://www.linkedin.com/in/akram-mohdfaisal/',
+				email: 'mailto:mohamad_22006626@utp.edu.my',
 			},
 			sidebar: [
 				{
